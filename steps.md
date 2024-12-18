@@ -141,4 +141,8 @@ kubectl get pods
 
 2. Access the Application:
 - Expose the deployment as a service and access the application using the service URL.
+
+
+
+https://coursera.org/share/99a2f56e74c23720743b9b67bf52e6fa
   
